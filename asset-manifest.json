@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Module-Test-Notes-App-1/static/css/main.11cd5b8d.css",
+    "main.js": "/React-Module-Test-Notes-App-1/static/js/main.ce5ae445.js",
+    "static/media/pocket-notes-svg.png": "/React-Module-Test-Notes-App-1/static/media/pocket-notes-svg.ae4f3675052dd5f802c5.png",
+    "index.html": "/React-Module-Test-Notes-App-1/index.html",
+    "main.11cd5b8d.css.map": "/React-Module-Test-Notes-App-1/static/css/main.11cd5b8d.css.map",
+    "main.ce5ae445.js.map": "/React-Module-Test-Notes-App-1/static/js/main.ce5ae445.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11cd5b8d.css",
+    "static/js/main.ce5ae445.js"
+  ]
+}
